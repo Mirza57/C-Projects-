@@ -1,8 +1,0 @@
-F:\C#Projects\Day_Teller\Day_Teller\bin\Debug\Day_Teller.exe.config
-F:\C#Projects\Day_Teller\Day_Teller\bin\Debug\Day_Teller.exe
-F:\C#Projects\Day_Teller\Day_Teller\bin\Debug\Day_Teller.pdb
-F:\C#Projects\Day_Teller\Day_Teller\obj\Debug\Day_Teller.csproj.AssemblyReference.cache
-F:\C#Projects\Day_Teller\Day_Teller\obj\Debug\Day_Teller.csproj.SuggestedBindingRedirects.cache
-F:\C#Projects\Day_Teller\Day_Teller\obj\Debug\Day_Teller.csproj.CoreCompileInputs.cache
-F:\C#Projects\Day_Teller\Day_Teller\obj\Debug\Day_Teller.exe
-F:\C#Projects\Day_Teller\Day_Teller\obj\Debug\Day_Teller.pdb
