@@ -12,14 +12,14 @@ namespace Day_Teller
         {
            
             Console.WriteLine("Enter the day number ");
-            var day = Console.ReadLine();
+            var day = Console.ReadLine();                
             Console.WriteLine("Enter the month number ");
             var month = Console.ReadLine();
             Console.WriteLine("Enter the year ");
             var year = Console.ReadLine();
 
             DateTime dt = new DateTime(int.Parse(year), int.Parse(month), int.Parse(day));
-            Console.WriteLine("\n "+" According to your input information the day will be -->" + dt.DayOfWeek);
+            Console.WriteLine("\n "+" According to your input information the day will be -->  " + dt.DayOfWeek);
             Console.ReadLine();
 
 
