@@ -1,0 +1,8 @@
+F:\C#Projects\Dice_Roller\Dice_Roller\bin\Debug\Dice_Roller.exe.config
+F:\C#Projects\Dice_Roller\Dice_Roller\bin\Debug\Dice_Roller.exe
+F:\C#Projects\Dice_Roller\Dice_Roller\bin\Debug\Dice_Roller.pdb
+F:\C#Projects\Dice_Roller\Dice_Roller\obj\Debug\Dice_Roller.csproj.AssemblyReference.cache
+F:\C#Projects\Dice_Roller\Dice_Roller\obj\Debug\Dice_Roller.csproj.SuggestedBindingRedirects.cache
+F:\C#Projects\Dice_Roller\Dice_Roller\obj\Debug\Dice_Roller.csproj.CoreCompileInputs.cache
+F:\C#Projects\Dice_Roller\Dice_Roller\obj\Debug\Dice_Roller.exe
+F:\C#Projects\Dice_Roller\Dice_Roller\obj\Debug\Dice_Roller.pdb
