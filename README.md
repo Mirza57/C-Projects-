@@ -16,3 +16,8 @@
 --- first it will ask you to enter your name:
 --- then it will ask, do you want to roll a dice?  (yes/no)
 --- let say you will type " Yes " so it will generate random number of the dice accordingly.
+
+### **(Project 03 Management)** ###
+
+--- I built this project to clear my Object-Oriented Programming Concepts.
+--- It contains all the necessary requirements/programming concepts which are compulsary to learn in order clear your C# concepts.
