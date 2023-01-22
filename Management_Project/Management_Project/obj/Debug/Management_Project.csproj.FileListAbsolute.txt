@@ -1,0 +1,8 @@
+F:\C#Projects\Management_Project\Management_Project\bin\Debug\Management_Project.exe.config
+F:\C#Projects\Management_Project\Management_Project\bin\Debug\Management_Project.exe
+F:\C#Projects\Management_Project\Management_Project\bin\Debug\Management_Project.pdb
+F:\C#Projects\Management_Project\Management_Project\obj\Debug\Management_Project.csproj.AssemblyReference.cache
+F:\C#Projects\Management_Project\Management_Project\obj\Debug\Management_Project.csproj.SuggestedBindingRedirects.cache
+F:\C#Projects\Management_Project\Management_Project\obj\Debug\Management_Project.csproj.CoreCompileInputs.cache
+F:\C#Projects\Management_Project\Management_Project\obj\Debug\Management_Project.exe
+F:\C#Projects\Management_Project\Management_Project\obj\Debug\Management_Project.pdb
