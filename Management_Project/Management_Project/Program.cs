@@ -5,8 +5,10 @@ using System.Text;
 using System.Threading.Tasks;
 using WorldNamespace;
 
+
 namespace Management_Project
 {
+    #region Management class
     internal class Program
     {
         static void Main(string[] args)
@@ -35,5 +37,6 @@ namespace Management_Project
 
         }
     }
+    #endregion
 
 }
