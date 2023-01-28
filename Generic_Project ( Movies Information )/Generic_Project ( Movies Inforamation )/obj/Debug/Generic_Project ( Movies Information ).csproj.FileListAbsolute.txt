@@ -1,0 +1,8 @@
+F:\C#Projects\Generic_Project ( Movies Inforamation )\Generic_Project ( Movies Inforamation )\bin\Debug\Generic_Project ( Movies Inforamation ).exe.config
+F:\C#Projects\Generic_Project ( Movies Inforamation )\Generic_Project ( Movies Inforamation )\bin\Debug\Generic_Project ( Movies Inforamation ).exe
+F:\C#Projects\Generic_Project ( Movies Inforamation )\Generic_Project ( Movies Inforamation )\bin\Debug\Generic_Project ( Movies Inforamation ).pdb
+F:\C#Projects\Generic_Project ( Movies Inforamation )\Generic_Project ( Movies Inforamation )\obj\Debug\Generic_Project ( Movies Information ).csproj.AssemblyReference.cache
+F:\C#Projects\Generic_Project ( Movies Inforamation )\Generic_Project ( Movies Inforamation )\obj\Debug\Generic_Project ( Movies Information ).csproj.SuggestedBindingRedirects.cache
+F:\C#Projects\Generic_Project ( Movies Inforamation )\Generic_Project ( Movies Inforamation )\obj\Debug\Generic_Project ( Movies Information ).csproj.CoreCompileInputs.cache
+F:\C#Projects\Generic_Project ( Movies Inforamation )\Generic_Project ( Movies Inforamation )\obj\Debug\Generic_Project ( Movies Inforamation ).exe
+F:\C#Projects\Generic_Project ( Movies Inforamation )\Generic_Project ( Movies Inforamation )\obj\Debug\Generic_Project ( Movies Inforamation ).pdb
