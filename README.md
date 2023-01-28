@@ -21,3 +21,9 @@
 
 --- I built this project to clear my Object-Oriented Programming Concepts.
 --- It contains all the necessary requirements/programming concepts which are compulsary to learn in order clear your C# concepts.
+
+### **(Project 04 Movies Inforamtion using Generic Concepts)** ###
+
+--- In this project I have use the conepts of Generic Collections.
+--- It provides inforamtion related to different movies.
+
