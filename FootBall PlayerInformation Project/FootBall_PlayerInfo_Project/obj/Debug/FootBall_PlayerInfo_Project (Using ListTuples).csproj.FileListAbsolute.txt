@@ -1,0 +1,8 @@
+F:\C#Projects\FootBall_PlayerInfo_Project (Using ListTuples)\FootBall_PlayerInfo_Project (Using ListTuples)\bin\Debug\FootBall_PlayerInfo_Project (Using ListTuples).exe.config
+F:\C#Projects\FootBall_PlayerInfo_Project (Using ListTuples)\FootBall_PlayerInfo_Project (Using ListTuples)\bin\Debug\FootBall_PlayerInfo_Project (Using ListTuples).exe
+F:\C#Projects\FootBall_PlayerInfo_Project (Using ListTuples)\FootBall_PlayerInfo_Project (Using ListTuples)\bin\Debug\FootBall_PlayerInfo_Project (Using ListTuples).pdb
+F:\C#Projects\FootBall_PlayerInfo_Project (Using ListTuples)\FootBall_PlayerInfo_Project (Using ListTuples)\obj\Debug\FootBall_PlayerInfo_Project (Using ListTuples).csproj.AssemblyReference.cache
+F:\C#Projects\FootBall_PlayerInfo_Project (Using ListTuples)\FootBall_PlayerInfo_Project (Using ListTuples)\obj\Debug\FootBall_PlayerInfo_Project (Using ListTuples).csproj.SuggestedBindingRedirects.cache
+F:\C#Projects\FootBall_PlayerInfo_Project (Using ListTuples)\FootBall_PlayerInfo_Project (Using ListTuples)\obj\Debug\FootBall_PlayerInfo_Project (Using ListTuples).csproj.CoreCompileInputs.cache
+F:\C#Projects\FootBall_PlayerInfo_Project (Using ListTuples)\FootBall_PlayerInfo_Project (Using ListTuples)\obj\Debug\FootBall_PlayerInfo_Project (Using ListTuples).exe
+F:\C#Projects\FootBall_PlayerInfo_Project (Using ListTuples)\FootBall_PlayerInfo_Project (Using ListTuples)\obj\Debug\FootBall_PlayerInfo_Project (Using ListTuples).pdb
