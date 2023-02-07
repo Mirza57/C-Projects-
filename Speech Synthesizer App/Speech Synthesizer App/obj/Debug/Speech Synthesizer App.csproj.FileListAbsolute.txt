@@ -1,0 +1,8 @@
+F:\C#Projects\Speech Synthesizer App\Speech Synthesizer App\bin\Debug\Speech Synthesizer App.exe.config
+F:\C#Projects\Speech Synthesizer App\Speech Synthesizer App\bin\Debug\Speech Synthesizer App.exe
+F:\C#Projects\Speech Synthesizer App\Speech Synthesizer App\bin\Debug\Speech Synthesizer App.pdb
+F:\C#Projects\Speech Synthesizer App\Speech Synthesizer App\obj\Debug\Speech Synthesizer App.csproj.AssemblyReference.cache
+F:\C#Projects\Speech Synthesizer App\Speech Synthesizer App\obj\Debug\Speech Synthesizer App.csproj.SuggestedBindingRedirects.cache
+F:\C#Projects\Speech Synthesizer App\Speech Synthesizer App\obj\Debug\Speech Synthesizer App.csproj.CoreCompileInputs.cache
+F:\C#Projects\Speech Synthesizer App\Speech Synthesizer App\obj\Debug\Speech Synthesizer App.exe
+F:\C#Projects\Speech Synthesizer App\Speech Synthesizer App\obj\Debug\Speech Synthesizer App.pdb
