@@ -1,0 +1,8 @@
+F:\C#Projects\MultiDimentional Array Program\MultiDimentional Array Program\bin\Debug\MultiDimentional Array Program.exe.config
+F:\C#Projects\MultiDimentional Array Program\MultiDimentional Array Program\bin\Debug\MultiDimentional Array Program.exe
+F:\C#Projects\MultiDimentional Array Program\MultiDimentional Array Program\bin\Debug\MultiDimentional Array Program.pdb
+F:\C#Projects\MultiDimentional Array Program\MultiDimentional Array Program\obj\Debug\MultiDimentional Array Program.csproj.AssemblyReference.cache
+F:\C#Projects\MultiDimentional Array Program\MultiDimentional Array Program\obj\Debug\MultiDimentional Array Program.csproj.SuggestedBindingRedirects.cache
+F:\C#Projects\MultiDimentional Array Program\MultiDimentional Array Program\obj\Debug\MultiDimentional Array Program.csproj.CoreCompileInputs.cache
+F:\C#Projects\MultiDimentional Array Program\MultiDimentional Array Program\obj\Debug\MultiDimentional Array Program.exe
+F:\C#Projects\MultiDimentional Array Program\MultiDimentional Array Program\obj\Debug\MultiDimentional Array Program.pdb
